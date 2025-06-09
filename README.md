@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashwin Balaji
 
-<!--
-**AshwinBalaji007/AshwinBalaji007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Computer Science with AI & ML – Woolf University  
+📊 Aspiring Data Scientist  
+🔍 Passionate about solving business problems using ML, Python, SQL.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Skills
+- **Languages**: Python, SQL
+- **ML/AI**: Scikit-learn, XGBoost, LightGBM, TensorFlow
+- **Tools**: Power BI, Tableau, SQL, Python
+- **Databases**: MySQL
+
