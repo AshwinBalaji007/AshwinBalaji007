@@ -9,5 +9,6 @@
 - **Languages**: Python, SQL
 - **ML/AI**: Scikit-learn, XGBoost, LightGBM, TensorFlow
 - **Tools**: Power BI, Tableau, SQL, Python
-- **Databases**: MySQL
+- **Databases**: MySQL, SSMS
+- **Cloud**: Microsoft Azure
 
